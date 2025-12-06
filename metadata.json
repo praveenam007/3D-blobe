@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GenAI 3D Forge",
+  "description": "An interactive 3D visualization studio featuring real-time generated meshes, dynamic lighting, and Gemini-powered voice/text control to manipulate the scene.",
+  "requestFramePermissions": []
+}

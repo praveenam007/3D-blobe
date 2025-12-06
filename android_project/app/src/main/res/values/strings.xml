@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GenAI Live Wallpaper</string>
+    <string name="wallpaper_description">A generative 3D video wallpaper.</string>
+</resources>
